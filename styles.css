@@ -1,0 +1,181 @@
+.navbar-brand{
+  /*  margin-left: 1.5rem;*/
+    padding:3% 15%;
+    font-family: "ubuntu";
+    font-size: 2.1rem;
+    font-weight: bolder;
+    
+}
+.nav-link{
+    margin-right: 5rem;
+    font-size: 1.2rem;
+    font-family: "montserrat-light";
+
+}
+#navbarSupportedContent{
+    background-color: #ff4c68;
+}
+.navbar{
+    background-color: #ff4c68;
+    padding-bottom:2.5rem ;
+}
+.rt{
+    background-color: #ff4c68;
+    padding:0%15%;
+
+}
+.ry{
+    font-family: "montserrat-black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight:bolder;
+    color:white;
+    
+}
+.download-button{
+    margin:5%3%5%0%;
+}
+.tittleimage{
+    width:60%;
+    transform:rotate(25deg);
+}
+.box{
+    padding:10%10%;
+    text-align: center;
+ 
+}
+h3
+{
+    font-weight: bolder;
+}
+p2{
+    color:grey;
+}
+.icon{
+    color: #ef8172;
+    padding:5%;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+h2{
+    font-family: "montserrat-black";
+    font-weight: bolder;
+    font-size: 3rem;
+    padding:3%15%;
+    text-align: center;
+    line-height: 1.7;
+    color:white;
+}
+.slides{
+    background-color: #ef8172;
+}
+.dog{
+      margin-left:40% ;
+    padding-bottom:2.5rem ;
+    height:10%;
+    width:10%;
+    border-radius:100%;
+    padding-top:2.5rem;
+    
+}
+.er{
+    padding-right: 2.5rem;
+    color: white;
+    margin-left: 2%;
+}
+.tr{
+    background-color: #ef8172;
+    padding-bottom: 1.5rem;
+   padding-left:5.7rem ;
+   width: 193px;
+  
+   margin-left: 5%;
+   padding-top: 1.3rem;
+
+}
+.rohith{
+    padding-left: 15%;
+    padding-right: 7%;
+    padding-top: 3.5%;
+}
+.reu{
+    font-weight: bolder;
+    font-size: 2.5rem;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+    margin-top: 5rem;
+}
+.rou{
+    color:grey;
+    margin-left: 15%;
+    margin-bottom: 1.5%;
+}
+.last{
+    background-color: #ff4c68;
+    padding-bottom: 15%;
+}
+.lasth{
+    color: white;
+    line-height: 7.5rem;
+    font-weight: bolder;
+    margin-left: 15%;
+    padding-top: 10%;
+    font-size: 5.5rem;
+    
+}
+.download-buttons{
+    margin-top: 5%;
+margin-left: 15%;
+}
+.card{
+    margin-bottom: 7.5rem;
+}
+.download-buttonss{
+    margin-left: 3.5%;
+    margin-top: 5%;
+}
+footer{
+    /* padding-left: 15%; */
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: larger;
+    color: grey;
+}
+.face{
+    color:blue;
+    margin-left: 1.7%;
+    /* margin-top: 56%; */
+}
+.face:hover{
+   color: darkblue;
+}
+.te{
+    color:lightblue;
+    margin-left: 1.7%;
+}
+.te:hover{
+    color: lightskyblue;
+}
+.instagram{
+    color:rgb(183, 0, 255);
+    margin-left: 1.7%;}
+.instagram:hover{
+color: rgb(78, 5, 109);
+}
+.what{
+    color: rgb(29, 189, 64);
+    margin-left: 1.7%;
+}
+.what:hover{
+    color: darkgreen;
+}
+.t{
+    margin-top: 1.3%;
+}
+
+
+
+
+/* ************************************************* */
